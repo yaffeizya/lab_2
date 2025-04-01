@@ -1,0 +1,1 @@
+p.mixer.Sound("/Users/mukhametaliissayev/Downloads/collect.mp3").play()
