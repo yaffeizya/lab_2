@@ -1,0 +1,6 @@
+<script>start("/Users/mukhametaliissayev/Desktop/pygame/venv/lab8/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("image","image",1,192,"192 B",1743495902,"01.04.2025, 13:25:02");</script>
+<script>addRow("paint.py","paint.py",0,4220,"4.1 kB",1743495397,"01.04.2025, 13:16:37");</script>
+<script>addRow("race.py","race.py",0,5773,"5.6 kB",1743496955,"01.04.2025, 13:42:35");</script>
+<script>addRow("snake.py","snake.py",0,4672,"4.6 kB",1743496372,"01.04.2025, 13:32:52");</script>
